@@ -4,7 +4,7 @@
 
 <br/>
 
-I’m an engineering sophomore currently working as a software development intern at KDE as a part of Google Summer of Code 2021. I have varying interests that range from algorithmic trading & FinTech to filesystems to making web-apps.
+I’m an engineering sophomore currently working as a software development intern at KDE as a part of Google Summer of Code 2021. I have varying interests that range from algorithmic trading and FinTech to making web-apps.
 
 I’ve previously interned as a software development engineer at Zerodha and CAGT. Both of these experiences have taught me a lot about writing performant yet maintainable production-ready code. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate extra alpha. I’m a staunch advocate of open-source software and FOSS philosophy. I regularly contribute to KDE’s KIO-FUSE, and maintain Zerodha’s CPPKiteConnect. Take a look at my previous work experience [here]().
 
