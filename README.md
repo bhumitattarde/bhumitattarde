@@ -1,16 +1,22 @@
-# Bhumit Attarde
+<h1 align="center">Bhumit Attarde</h1>
 
-![Bhumit Attarde](./banner.gif)
+<p align="center">
+  <img src="./banner.gif" alt="Bhumit Attarde">
+</p>
 
 <br/>
 
-I’m an engineering sophomore currently working as a software development intern at KDE as a part of the Google Summer of Code 2021. I have varying interests that range from algorithmic trading and FinTech to web development.
+<p align="center">
+I’m an engineering sophomore currently working as a student software development intern for Google Summer of Code 2021 at KDE. I have varying interests that range from algorithmic trading and FinTech to web development.
+</p>
 
+<p align="center">
 I’ve previously interned as a software development engineer at Zerodha and CAGT. Both of these experiences have taught me a lot about writing performant yet maintainable production-ready code. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate extra alpha. I’m a staunch advocate of open-source software and FOSS philosophy. I regularly contribute to KDE’s KIO-FUSE, and maintain Zerodha’s CPPKiteConnect. Take a look at my previous work experience [here]().
-
+</p>
+  
 <br/>
 
-## Languages, Frameworks & Technologies
+<h2 align="center">Languages, Frameworks & Technologies</h2>
 
 <p>
 <!-- Languages -->
@@ -40,14 +46,10 @@ I’ve previously interned as a software development engineer at Zerodha and CAG
 
 <br/>
 
-## Contact
+<h2 align="center">Contact</h2>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mail">][mail]
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn">][linkedin]
-[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">][gitlab]
-
-<!--  -->
-
-[linkedin]: https://www.linkedin.com/in/bhumitattarde/
-[mail]: mailto:bhumitattarde2@gmail.com
-[gitlab]: https://invent.kde.org/bhumit
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhumitattarde/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bhumitattarde2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+  <a href="https://invent.kde.org/bhumit"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+</p>
