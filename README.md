@@ -9,7 +9,7 @@ I’m an engineering sophomore currently working as a student developer for Goog
 </p>
 
 <p align="center">
-I’ve previously interned as a software development engineer at Zerodha and CAGT. Both of these experiences have taught me a lot about writing performant yet maintainable production-ready code. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate extra alpha. I’m a staunch advocate of open-source software and FOSS philosophy. I regularly contribute to KDE’s KIO-FUSE, and maintain Zerodha’s CPPKiteConnect. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
+I’ve previously interned as a software development engineer at Zerodha and CAGT. Both of these experiences have taught me a lot about writing performant yet maintainable production-ready code. I’m a staunch advocate of open-source software and FOSS philosophy. I regularly contribute to KDE’s KIO-FUSE, and maintain Zerodha’s CPPKiteConnect. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate extra alpha. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
 </p>
   
 <br/>
