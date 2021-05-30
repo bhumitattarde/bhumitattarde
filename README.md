@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-I’m an engineering sophomore currently working as a student software development intern for Google Summer of Code 2021 at KDE. I have varying interests that range from algorithmic trading and FinTech to web development.
+I’m an engineering sophomore currently working as a student software development intern for Google Summer of Code 2021 at KDE. I have varying interests that range from algorithmic trading and FinTech to full-stack web development.
 </p>
 
 <p align="center">
