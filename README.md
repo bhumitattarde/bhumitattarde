@@ -1,5 +1,3 @@
-<h1 align="center">Bhumit Attarde</h1>
-
 <p align="center">
   <img src="./banner.gif" alt="Bhumit Attarde">
 </p>
