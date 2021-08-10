@@ -1,11 +1,11 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.gif" alt="Bhumit Attarde">
 </p>
 
-<br/>
+<br/> -->
 
 <p align="center">
-I’m an engineering sophomore currently working as a Software Engineering Intern at smallcase and as a Student Software Developer for Google Summer of Code 2021 at KDE. I have varying interests that range from algorithmic trading and FinTech to full-stack web development.
+Hello! I’m an engineering sophomore currently working as a Software Engineering Intern at smallcase and as a Student Software Developer for Google Summer of Code 2021 at KDE. I have varying interests that range from algorithmic trading and FinTech to full-stack web development.
 </p>
 
 <p align="center">
