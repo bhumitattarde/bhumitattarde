@@ -5,11 +5,11 @@
 <br/> -->
 
 <p align="center">
-Hello! I’m an engineering sophomore currently working as a Software Engineering Intern at smallcase and as a Student Software Developer for Google Summer of Code 2021 at KDE. I have varying interests that range from algorithmic trading and FinTech to full-stack web development.
+Hello! I’m a junior year engineering student currently working as a Software Engineering Intern at smallcase. I have varying interests that range from algorithmic trading and FinTech to full-stack web development.
 </p>
 
 <p align="center">
-I’ve previously interned as a software development engineer at Zerodha and CAGT. Both of these experiences have taught me a lot about writing performant yet maintainable production-ready code. I’m a staunch advocate of open-source software and FOSS philosophy. I regularly contribute to KDE’s KIO-FUSE, and maintain Zerodha’s CPPKiteConnect. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate alpha. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
+I’ve previously worked as Student Software Developer for Google Summer of Code and as a Software Engineer Intern for Zerodha and CAGT. All these experiences have taught me a lot about writing performant yet maintainable production-ready code. I’m a staunch advocate of open-source software and FOSS philosophy. I regularly contribute to KDE’s KIO-FUSE, and maintain Zerodha’s CPPKiteConnect. I’ve traded Indian equity markets for a brief period of time and love leveraging programming to generate alpha. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
 </p>
   
 <br/>
@@ -25,21 +25,21 @@ I’ve previously interned as a software development engineer at Zerodha and CAG
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50">
 
-<!-- Frameworks -->
+<!-- Frameworks/Libraries/DBs -->
 <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="Express" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/gatsby/gatsby-original.svg" alt="GatsbyJS" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50">
 
-<!-- Technologies -->
+<!-- Technologies/Misc -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="Vim" width="50" height="50">
 </p>
 
 <br/>
