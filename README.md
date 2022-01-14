@@ -5,11 +5,11 @@
 <br/> -->
 
 <p align="center">
-Hello! I’m a junior year engineering student currently working as a Software Engineering Intern at smallcase. I have varying interests that range from algorithmic trading and FinTech to full-stack web development.
+Hello! I’m a junior year engineering student currently working as a Software Engineering Intern at smallcase. I have varying interests that range from algorithmic trading and FinTech to full-stack web development. I’m a staunch advocate of open-source software and FOSS philosophy. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate alpha. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
 </p>
 
 <p align="center">
-I’ve previously worked as Student Software Developer for Google Summer of Code and as a Software Engineer Intern for Zerodha and CAGT. All these experiences have taught me a lot about writing performant yet maintainable production-ready code. I’m a staunch advocate of open-source software and FOSS philosophy. I regularly contribute to KDE’s KIO-FUSE, and maintain Zerodha’s CPPKiteConnect. I’ve traded Indian equity markets for a brief period of time and love leveraging programming to generate alpha. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
+I try to keep myself updated with national and international affairs (particularly related to finance) in my free time. When I’m not coding or going through latest geopolitical, financial news, I can be found coming up with better strategies to trade leveraged equity shares listed in India.
 </p>
   
 <br/>
