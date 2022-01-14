@@ -5,7 +5,7 @@
 <br/> -->
 
 <p align="center">
-Hello! I’m a junior year engineering student currently working as a Software Engineering Intern at smallcase. I have varying interests that range from algorithmic trading and FinTech to full-stack web development. I’m a staunch advocate of open-source software and FOSS philosophy. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate alpha. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
+Hello! I’m a junior year engineering student currently working as a Software Engineer at smallcase. I have varying interests that range from algorithmic trading and FinTech to full-stack web development. I’m a staunch advocate of open-source software and FOSS philosophy. I’ve traded Indian equity markets for a brief period of time and love leveraging technology to generate alpha. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
 </p>
 
 <p align="center">
