@@ -5,7 +5,7 @@
 <br/> -->
 
 <p align="center">
-Hello! I’m a senior year engineering student. I have varying interests that range from algorithmic trading, FinTech, high-performance computing and databses to full-stack web development.
+Hello! I’m a senior year engineering student. I have varying interests that range from algorithmic trading, FinTech, high-performance computing and databases to full-stack web development.
 
 </p>
 
