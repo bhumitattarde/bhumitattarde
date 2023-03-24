@@ -15,34 +15,34 @@ Take a look at my previous work experience <a href="https://www.bhumit.net/#Expe
 </p>
 
 <br/>
+<!-- 
+<h2 align="center">Languages, Frameworks & Technologies</h2> -->
 
-<h2 align="center">Languages, Frameworks & Technologies</h2>
-
-<p>
+<!-- <p>
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"> -->
 
 <!-- Frameworks/Libraries/DBs -->
-<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50">
+<!-- <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="Express" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/gatsby/gatsby-original.svg" alt="GatsbyJS" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50">
-
+ -->
 <!-- Technologies/Misc -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50">
-</p>
+</p> -->
 
 <br/>
 
