@@ -4,15 +4,6 @@
 
 <br/> -->
 
-<p align="center">
-Hello! I'm Bhumit - a software developer. I have varying interests that range from algorithmic trading, FinTech, high-performance computing and databases to full-stack web development. I’m a staunch advocate of open-source software and FOSS philosophy. 
-</p>
-
-<p align="center">
-I have briefly traded Indian equity markets. I try to keep myself updated with national and international affairs (particularly related to finance) in my free time. Take a look at my previous work experience <a href="https://www.bhumit.net/#Experience">here</a>.
-</p>
-
-<br/>
 <!-- 
 <h2 align="center">Languages, Frameworks & Technologies</h2> -->
 
